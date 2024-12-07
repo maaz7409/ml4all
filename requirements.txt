@@ -1,0 +1,4 @@
+# All requirements will be installed with the install of this library itself
+numpy
+pandas
+matplotlib
